@@ -1,0 +1,13 @@
+{
+  "name": "populating_next_right_pointers_in_each_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "component": "node scaffold.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
